@@ -5,23 +5,6 @@
 	<!-- Description -->
 	<content contentuid="831bac72-8050-4c74-ab2f-c143ef74c840" version="1">Release spores at a corpse to animate it as a spore servant under your command. The servant stay active for 100 turns.</content>
 	
-	
-	<!-- Green spore druid spell -->
-	<!-- Name -->
-	<content contentuid="730979f6-b87e-4101-a594-b5454478156b" version="2">Bibberbang Spores</content>
-	<!-- Description -->
-	<content contentuid="556ab87b-d816-440f-929b-c51b3b87fb0a" version="3">Eject Bibberbang spores and create a cloud of Noxious Fumes.</content>
-	
-	
-	<!-- Spore infestation druid spell -->
-	<!-- Name -->
-	<content contentuid="73d6fd71-277d-4fd5-bffe-1616825584f8" version="1">Spore infestation</content>
-	<!-- Description -->
-	<content contentuid="691d7526-08bd-477c-9191-d8fa4191ee55" version="1">You release spores at a target creature, dealing damage and infesting it with necrotic spore.</content>		
-	
-
-	
-	
 </contentList>
 
 
