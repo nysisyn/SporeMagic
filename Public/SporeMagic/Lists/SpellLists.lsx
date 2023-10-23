@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Circle of the Spores Druid 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_HaloOfSpores;Shout_SymbioticEntity;Projectile_RayOfSickness"/>
+                    <attribute id="UUID" type="guid" value="e568eca4-b5e1-4b67-83d6-d831adf05e23"/>
+                </node>
+				
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Circle of the Spores Druid Spells 3"/>
+                    <attribute id="Spells" type="LSString" value="Nysi_GreenSporeCloud;Shout_DetectThoughts"/>
+                    <attribute id="UUID" type="guid" value="4895c409-1850-42b1-a1d5-e9faf59296a9"/>
+                </node>
+				
+				<node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Circle of the Spores Druid Spells 5"/>
+                    <attribute id="Spells" type="LSString" value="Nysi_AnimatingSpores;Target_GaseousForm"/>
+                    <attribute id="UUID" type="guid" value="4a63f35c-69ec-45b9-a960-6c4f3b16e8ea"/>
+                </node>
+	
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+				<node id="Progression">
+					<attribute id="Level" type="uint8" value="5"/>
+					<attribute id="Name" type="LSString" value="CircleOfTheSpores"/>
+					<attribute id="ProgressionType" type="uint8" value="1"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(4a63f35c-69ec-45b9-a960-6c4f3b16e8ea,DruidCircleOfTheSporesSpells,,,AlwaysPrepared)"/>
+					<attribute id="TableUUID" type="guid" value="288c9d1e-ab18-46dd-8fa3-d4fcfa44147a"/>
+					<attribute id="UUID" type="guid" value="7ed6e0c9-619f-4585-baa2-df7f7a377375"/>
+				</node>
+           </children>
+        </node>
+    </region>
+</save>

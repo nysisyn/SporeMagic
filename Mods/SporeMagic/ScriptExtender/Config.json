@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 1,
+    "ModTable": "SporeMagic_66583b99-80e8-487d-9e5c-e14f4b7b5e30",
+    "FeatureFlags": ["Lua"]
+}
